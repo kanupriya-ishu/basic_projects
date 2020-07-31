@@ -1,3 +1,3 @@
 # basic_projects
 
-## This repository contains various projects on different topics. 
+## This repository contains basic projects on data visualisation and python. 
