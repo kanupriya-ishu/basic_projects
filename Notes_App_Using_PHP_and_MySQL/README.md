@@ -22,17 +22,17 @@ Add, retrieve, delete and update data records using database.
 
 ## Output:
 ### Initial page
-![GitHub Logo](/images/index.png)
+![Index Page](/images/index.png)
 
 ### Add a note
-![GitHub Logo](/images/add.png)
+![Adding note](/images/add.png)
 
-### More notes
-![GitHub Logo](/images/notes.png)
+### Viewing notes
+![Viewing notes](/images/notes.png)
 
 ### Edit a note
-![GitHub Logo](/images/edit.png)
+![Editing note](/images/edit.png)
 
 ### Delete a note
-![GitHub Logo](/images/delete.png)
+![Deleting note](/images/delete.png)
 
