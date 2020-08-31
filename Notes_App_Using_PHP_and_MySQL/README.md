@@ -22,17 +22,17 @@ Add, retrieve, delete and update data records using database.
 
 ## Output:
 ### Initial page
-![Index Page](images/index.png)
+![index](https://user-images.githubusercontent.com/60778999/91721407-53291d00-ebb6-11ea-8499-3a2eace14737.PNG)
 
 ### Add a note
-![Adding note](/images/add.png)
+![add note](https://user-images.githubusercontent.com/60778999/91721354-3db3f300-ebb6-11ea-9283-f0b0df0dd744.PNG)
 
 ### Viewing notes
-![Viewing notes](/images/notes.png)
+![view notes](https://user-images.githubusercontent.com/60778999/91721444-62a86600-ebb6-11ea-8e6a-34cc3a90ee1c.PNG)
 
 ### Edit a note
-![Editing note](/images/edit.png)
+![edit note](https://user-images.githubusercontent.com/60778999/91721471-72c04580-ebb6-11ea-8701-02d7bb3e93bb.PNG)
 
 ### Delete a note
-![Deleting note](/images/delete.png)
+![delete note](https://user-images.githubusercontent.com/60778999/91721511-85d31580-ebb6-11ea-9c1f-9c30786b12a9.PNG)
 
