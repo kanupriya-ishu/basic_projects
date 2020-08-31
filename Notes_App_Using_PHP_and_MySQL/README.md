@@ -22,7 +22,7 @@ Add, retrieve, delete and update data records using database.
 
 ## Output:
 ### Initial page
-![Index Page](/images/index.png)
+![Index Page](images/index.png)
 
 ### Add a note
 ![Adding note](/images/add.png)
